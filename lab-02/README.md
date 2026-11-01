@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Student Name:** K. Nagaraju Reddy
-- **Registration Number:** 252U1R9060
+- **Registration Number:** 252U1R9069
 - **Section:** CSE GEN AI (2A)
 - **Course:** Backend Development Fundamentals
 - **Academic Term:** Year II – Term II

@@ -13,7 +13,7 @@ app.get("/", (request, response) => {
 app.get("/about", (request, response) => {
     response.status(200).json({
         name: "K. Nagaraju Reddy",
-        registrationNumber: "252U1R9060",
+        registrationNumber: "252U1R9069",
         section: "CSE GEN AI (2A)"
     });
 });
