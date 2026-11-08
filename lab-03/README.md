@@ -521,3 +521,4 @@ A dedicated troubleshooting guide is available at [`debugging/debugging-exercise
 ## Conclusion
 
 Lab 3 demonstrates how to build a production-grade, secure REST API in Node.js and Express.js with SQLite. By implementing query parameters with parameterized SQL queries, strict allowlists, input validation, structured HTTP status codes, and thorough debugging practices, this project establishes a reliable foundation for enterprise backend engineering.
+

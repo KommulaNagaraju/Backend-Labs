@@ -284,3 +284,4 @@ app.get('/books/:bookId', async (request, response) => {
 | **MODULE_NOT_FOUND** | Missing `./` or misspelling in `require()` | Script crash before initialization | Use explicit relative path `./database` |
 | **SQLITE_ERROR** | Typo in table name (`books` vs `book`) | 500 error: `no such table: books` | Correct table identifier in SQL statement |
 | **Missing `await`** | Omitting `await` on `db.get()` / `db.all()` | Returns HTTP 200 with `{}` empty body | Add `await` before asynchronous promise call |
+
